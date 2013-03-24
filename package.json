@@ -1,0 +1,26 @@
+{
+  "name": "frequency-meter",
+  "version": "0.0.1",
+  "description": "Measures event frequency",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/meter.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:pgte/frequency-meter.git"
+  },
+  "dependencies": {
+    "microtime": "*"
+  },
+  "devDependencies": {
+    "tap": "*"
+  },
+  "keywords": [
+    "frequency",
+    "measure",
+    "event"
+  ],
+  "author": "pgte",
+  "license": "MIT"
+}
