@@ -1,4 +1,4 @@
-# Frequency Meter
+# Frequency Meter [![Build Status](https://secure.travis-ci.org/pgte/frequency-meter.png)](http://travis-ci.org/pgte/frequency-meter)
 
 Measures the frequency of events.
 
