@@ -4,7 +4,7 @@
   "description": "Measures event frequency",
   "main": "index.js",
   "scripts": {
-    "test": "node test/meter.js"
+    "test": "node tests/meter.js"
   },
   "repository": {
     "type": "git",
