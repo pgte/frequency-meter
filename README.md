@@ -46,6 +46,12 @@ fm.on('frequency', function(freq) {
 });
 ```
 
+End it:
+
+```javascript
+fm.end();
+```
+
 ## License
 
 MIT
